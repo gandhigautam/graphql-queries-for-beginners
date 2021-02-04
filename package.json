@@ -1,0 +1,19 @@
+{
+  "name": "graphql-queries-for-beginners",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "leonardomso",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node app.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "apollo-server-express": "^2.19.2",
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "graphql-tools": "^7.0.2"
+  }
+}
